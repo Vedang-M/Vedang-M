@@ -102,14 +102,14 @@ I've led teams to podiums across **4+ national-level hackathons**, including a 3
 
 <div align="center">
 
-<a href="https://github.com/Vedang-M/Swasthya-Saathi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedang-M&repo=Swasthya-Saathi&theme=dark&title_color=32DE84&icon_color=32DE84&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Swasthya Saathi" />
+<a href="https://github.com/Vedang-M/Bharat-Bytes_Swasthya-Saathi">
+  
 </a>
-<a href="https://github.com/Vedang-M/SignAge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedang-M&repo=SignAge&theme=dark&title_color=32DE84&icon_color=32DE84&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="SignAge" />
+<a href="https://github.com/SamanPandey-in/SignAge">
+  
 </a>
-<a href="https://github.com/Vedang-M/Vibe-Quiz-Master">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vedang-M&repo=Vibe-Quiz-Master&theme=dark&title_color=32DE84&icon_color=32DE84&text_color=FFFFFF&bg_color=0D1117&hide_border=true" alt="Vibe Quiz Master" />
+<a href="https://github.com/Vedang-M/Vibe">
+  
 </a>
 
 </div>
