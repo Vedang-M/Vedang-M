@@ -39,13 +39,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a builder who ships — currently pursuing dual degrees at **IIT Madras** (B.S. Data Science & Applications) and **VESIT Mumbai** (B.Tech Computer Engineering, CGPA **9.23/10**). I was selected as an Open Source Contributor for **GirlScript Summer of Code (GSSoC) 2026**, and I serve as the **Junior Web Tech Officer** at **CSI VESIT**, where I develop portals and organize tech events.
+I'm a builder who ships — currently pursuing dual degrees at **IIT Madras** (B.S. Data Science & Applications) and **VESIT Mumbai** (B.Tech Computer Engineering, CGPA **9.28/10**). I was selected as an Open Source Contributor for **GirlScript Summer of Code (GSSoC) 2026**, and I served as the **Junior Web Tech Officer** at **CSI VESIT**, where I developed portals and organize tech events.
 
 I've led teams to podiums across **4+ national-level hackathons**, including a 3rd-place finish at the **IIT Bombay Techfest Datathon**. Whether it's building a medical intelligence platform or training a CNN to recognize sign language — I care about making things that **actually work** and **actually help people**.
 
 <div align="center">
 
-| 🎓 Dual Degree | 📊 9.23 CGPA | 🏆 3 Wins | 🌐 GSSoC '26 |
+| 🎓 Dual Degree | 📊 9.28 CGPA | 🏆 3 Wins | 🌐 GSSoC '26 |
 | :---: | :---: | :---: | :---: |
 | IIT Madras + VESIT | VESIT Mumbai | National Level | Open Source Contributor |
 
@@ -173,7 +173,7 @@ I've led teams to podiums across **4+ national-level hackathons**, including a 3
 | Institution | Degree | Score | Year |
 | :--- | :--- | :---: | :---: |
 | **IIT Madras** | B.S. Data Science & Applications | — | May 2024 – Present |
-| **VESIT Mumbai** | B.Tech AI & Data Science | 9.23 / 10 | Aug 2024 – Present |
+| **VESIT Mumbai** | B.Tech AI & Data Science | 9.28 / 10 | Aug 2024 – Present |
 
 <br>
 
@@ -197,7 +197,7 @@ I've led teams to podiums across **4+ national-level hackathons**, including a 3
 <br>&nbsp;&nbsp;&nbsp;&nbsp;▸ Awarded **2nd Position**, Build-a-thon '26 Winter Internship
 
 🌐 **Jr. Web Tech Officer** · Computer Society of India – VESIT
-<br>&nbsp;&nbsp;&nbsp;&nbsp;📅 Oct 2025 – Present
+<br>&nbsp;&nbsp;&nbsp;&nbsp;📅 Oct 2025 – Jun 2026
 <br>&nbsp;&nbsp;&nbsp;&nbsp;▸ Web & portal development for the CSI VESIT chapter
 <br>&nbsp;&nbsp;&nbsp;&nbsp;▸ Organized offline and online CSI events for 200+ participants
 
